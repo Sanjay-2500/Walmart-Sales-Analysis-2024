@@ -3,12 +3,12 @@
 
 # 1.Overall Sales and Profit Stats:
 
-Average sales per order: $229.86
-Average profit per order: $28.66
-Maximum sale: $22,638.48, and maximum profit: $8,399.98
-Average discount: 15.6%
-Category Insights:
+Average sales per order: $229.86 <br />
+Average profit per order: $28.66 <br />
+Maximum sale: $22,638.48, and maximum profit: $8,399.98 <br />
+Average discount: 15.6% <br />
 
+Category Insights:
 # 2.Technology leads in sales with $836,154 and the highest profit of $145,455.
 Office Supplies follows with $719,047 in sales and $122,491 in profit.
 Furniture generates $741,999 in sales but has the lowest profit of $18,451.
